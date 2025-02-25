@@ -51,7 +51,7 @@ I manually entered questions and prompts into ChatGPT, experimenting with differ
 
 The experiment resulted in several robust prompts and answers from ChatGPT. The results included elements that I did not immediately think of, such as disability access and "personality" of the chatbot.
 
-1. I am a university student studying computer science. I have an assignment to create a Discord chatbot to help elementary students study math. Generate a prompt that will create a solution description for this chatbot.
+1. _I am a university student studying computer science. I have an assignment to create a Discord chatbot to help elementary students study math. Generate a prompt that will create a solution description for this chatbot._
 
 ChatGPT's Prompt:
 "Design a detailed solution description for a Discord chatbot that helps elementary school students study math. The solution should include:
@@ -113,7 +113,8 @@ This chatbot ensures a safe, engaging, and educational experience for young lear
 Would you like to add any specific requirements or adjustments? 
 
 Next, I gave less context, but specified the technique.
-2. Help me create a prompt to design requirements for a math study chatbot. Use chain of thought technique. 
+
+2. _Help me create a prompt to design requirements for a math study chatbot. Use chain of thought technique._ 
 
 ChatGPT's prompt:
 Prompt for Defining Math Study Chatbot Requirements
@@ -152,7 +153,8 @@ Step 7: Feedback & Continuous Improvement
 	• Will there be error logging to improve the bot’s accuracy?
 By addressing these step-by-step questions, we can define a clear set of requirements for our math study chatbot.
 
-3. Help me create a prompt to design requirements for a math study chatbot. Ask questions if needed.
+3. _Help me create a prompt to design requirements for a math study chatbot. Ask questions if needed._
+   
 Here’s a solid prompt to define the design requirements for your math study chatbot. Before finalizing it, I have a few questions to tailor it better:
 	1. Target Age Group: Are the elementary students in a specific grade range (e.g., K-2, 3-5, or all grades)?
 	2. Subjects Covered: Will the chatbot focus on basic arithmetic (addition, subtraction, multiplication, division) or include more topics (fractions, geometry, word problems, etc.)?
